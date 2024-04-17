@@ -1,0 +1,1 @@
+document.getElementById("app").innerHTML = "<h2 style='padding:10%'><img src='../img/icon_128.png'><br>This site is under construction.</h2>";
