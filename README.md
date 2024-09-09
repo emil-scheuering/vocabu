@@ -1,5 +1,5 @@
 # vocabu
-web application to train your vocabulary
+Open-source web application to train your vocabulary
 
 
 ## Credits
